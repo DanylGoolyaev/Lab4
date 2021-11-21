@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBmR32AMNJkYk9sjfEcyJryeBirexs/noHLWQIhjBNB6dtS5WscaBhI5ikCbgTvhGjP9+qDBpGBZbFro0lVTmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danyl\\source\\repos\\ConsoleApp19\\ConsoleApp19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danyl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
