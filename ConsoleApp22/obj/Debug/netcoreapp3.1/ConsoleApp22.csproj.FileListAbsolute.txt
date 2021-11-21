@@ -1,0 +1,13 @@
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.exe
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.deps.json
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.json
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.runtimeconfig.dev.json
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.dll
+C:\Users\Danyl\source\repos\ConsoleApp22\bin\Debug\netcoreapp3.1\ConsoleApp22.pdb
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfoInputs.cache
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.AssemblyInfo.cs
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.dll
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.pdb
+C:\Users\Danyl\source\repos\ConsoleApp22\obj\Debug\netcoreapp3.1\ConsoleApp22.genruntimeconfig.cache
